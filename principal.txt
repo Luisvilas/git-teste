@@ -1,0 +1,27 @@
+Exercicio 1
+
+-Entrar no terminal
+-inicializar como git init
+-criar os arquivos
+-git add <nome do arquivo>
+-git commit -m "<nome dos commits>"
+-git log (para verificar)
+
+Exercício 2
+
+-Entrar no terminal
+-git init
+-criar arquivo e adicionar conteúdo
+-git add .
+-git commit -m "Texto"
+-git restore <nome do arquivo>
+-git reset --hard
+
+Exercício 3
+
+-entrar no terminal da pasta
+-git init
+-criar arquivo na pasta
+-git add .
+-git commit -m "texto"
+-novo arquivo e alterar a branch
